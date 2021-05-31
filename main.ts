@@ -1,13 +1,15 @@
 /**
- * led söndür (2,1)
+ * (x,y)
  * 
- * led söndür (0,2)
+ * led söndür   (2,1)
  * 
- * led söndür (2,2)
+ * led söndür   (0,2)
  * 
- * led yak (2,4)
+ * led söndür   (2,2)
  * 
- * led yak (3,4)
+ * led yak         (2,4)
+ * 
+ * led yak         (3,4)
  */
 basic.forever(function () {
     basic.showLeds(`
